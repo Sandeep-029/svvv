@@ -1,0 +1,20 @@
+Hi,
+Hope you're doing well,
+Please find the attached resume.
+Having 2 years of experience  as a Devops engineer and  expertise in AWS cloud, Jenkins, Ansible, Docker, Git, GitHub, and Maven tools. Good knowledge on  shell scripting, CICD Pipelines, and performing monthly deployments, with regular ad-hoc tasks assigned in my bucket.
+
+1) First Name : medipalli 
+ 2) Last Name : sandeep
+ 3) Date Of Birth : 21/03/1995
+ 4) Skillset : jenkins,ansible,docker,maven,git,github,sonarqube,nexus
+ 5) Domain: devops engineer
+ 6) Total Experience: 2 years
+ 7) Relevant Experience: 2 years
+ 8) Primary Email Address : medipallisandeep029@gmail.com
+ 9) Secondary Email Address : sandeepmedipalli029@gmail.com
+ 10) Primary Phone Number : 9154716992
+ 11) Secondary Phone Number : 9989290648
+ 12) Current Company Name: blueliner software services pvt ltd
+ 13) Prev. Companies Worked :  blueliner software services pvt ltd
+ 14) Current Location : hyderabad
+ 15) Resume Attached : Yes
